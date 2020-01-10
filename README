@@ -1,1 +1,7 @@
 This is a repo with a lot of examples for Doxygen.
+
+It contains the functions to calculate carthesian points.
+
+You can generate the documentation with:
+`make doc'
+You will need graphviz and doxygen.
