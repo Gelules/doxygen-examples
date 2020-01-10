@@ -1,1 +1,4 @@
 tags
+doc/*
+point
+src/*.o
